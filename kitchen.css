@@ -1,0 +1,14 @@
+body{
+    background: url("https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Colorful-Geometric-Simple-Background-Image.jpg");
+    background-size: cover;
+    color: white;
+    font-family: 'Nunito', sans-serif;
+}
+.heading{
+    font-family: 'Lobster', cursive;
+}
+canvas{
+    border: 5px double white;
+    box-shadow: 10px 10px 10px white;
+    border-radius: 30px;
+}
